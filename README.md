@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey there 💮
+I'm Moriah, a current cybersecurity professional learning how to code. I am currently learning the basics, working with HTML and CSS, but I am excited to keep going and learn more complex languages and tools!
 <!--
 **moriahgfrazier/moriahgfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
